@@ -1,2 +1,2 @@
 # delta-demo
-this is the description of Git &amp; Github
+this is the description of Git &amp; Github.
